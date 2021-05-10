@@ -4,7 +4,7 @@
 
 ---
 ## Overview
-This report will display the results of a local Colorado election, given data provided from the election commission in CSV format. Using Python to iterate through and process each recorded vote, we have determined the victor of this election and outputted the results in a .txt file. Per request, we have also provided voter turnout metrics per county and the county with the largest turnout overall. Should this report meet the expectations of the election commission, it is our desire that this code me implemented in future elections.
+This report will display the results of a local Colorado election, given data provided from the election commission in CSV format. Using Python to iterate through and process each recorded vote, we have determined the victor of this election and outputted the results in a .txt file. Per request, we have also provided voter turnout metrics per county and the county with the largest turnout overall. Should this report meet the expectations of the election commission, it is our desire that this code be implemented in future elections.
 
 ---
 ## Winning Candidate - Diana Degette
